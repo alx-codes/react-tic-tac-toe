@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alx-codes/react-tic-tac-toe/static/css/main.80220f6d.chunk.css",
+    "main.js": "/alx-codes/react-tic-tac-toe/static/js/main.bc6bb675.chunk.js",
+    "main.js.map": "/alx-codes/react-tic-tac-toe/static/js/main.bc6bb675.chunk.js.map",
+    "runtime-main.js": "/alx-codes/react-tic-tac-toe/static/js/runtime-main.2ffce219.js",
+    "runtime-main.js.map": "/alx-codes/react-tic-tac-toe/static/js/runtime-main.2ffce219.js.map",
+    "static/js/2.c4022d2a.chunk.js": "/alx-codes/react-tic-tac-toe/static/js/2.c4022d2a.chunk.js",
+    "static/js/2.c4022d2a.chunk.js.map": "/alx-codes/react-tic-tac-toe/static/js/2.c4022d2a.chunk.js.map",
+    "index.html": "/alx-codes/react-tic-tac-toe/index.html",
+    "precache-manifest.a54d18c006ab499809cc5df914faf9d0.js": "/alx-codes/react-tic-tac-toe/precache-manifest.a54d18c006ab499809cc5df914faf9d0.js",
+    "service-worker.js": "/alx-codes/react-tic-tac-toe/service-worker.js",
+    "static/css/main.80220f6d.chunk.css.map": "/alx-codes/react-tic-tac-toe/static/css/main.80220f6d.chunk.css.map",
+    "static/js/2.c4022d2a.chunk.js.LICENSE": "/alx-codes/react-tic-tac-toe/static/js/2.c4022d2a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ffce219.js",
+    "static/js/2.c4022d2a.chunk.js",
+    "static/css/main.80220f6d.chunk.css",
+    "static/js/main.bc6bb675.chunk.js"
+  ]
+}
